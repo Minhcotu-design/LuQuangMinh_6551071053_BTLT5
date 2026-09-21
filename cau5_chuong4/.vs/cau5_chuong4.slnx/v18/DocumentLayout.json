@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\code\\C#\\cau5_chuong4\\",
+  "WorkspaceRootPath": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT5\\cau5_chuong4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1869E266-1C5D-4C17-A156-65788D701097}|cau5_chuong4\\cau5_chuong4.csproj|d:\\code\\c#\\cau5_chuong4\\cau5_chuong4\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1869E266-1C5D-4C17-A156-65788D701097}|cau5_chuong4\\cau5_chuong4.csproj|solutionrelative:cau5_chuong4\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1869E266-1C5D-4C17-A156-65788D701097}|cau5_chuong4\\cau5_chuong4.csproj|d:\\code\\c#\\cau5_chuong4\\cau5_chuong4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1869E266-1C5D-4C17-A156-65788D701097}|cau5_chuong4\\cau5_chuong4.csproj|solutionrelative:cau5_chuong4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23E489D9-B8C5-B428-B25B-D566034DB47C}|cau5_chuong4\\cau5_chuong4.csproj|d:\\code\\c#\\luquangminh_6551071053_btlt5\\cau5_chuong4\\cau5_chuong4\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E489D9-B8C5-B428-B25B-D566034DB47C}|cau5_chuong4\\cau5_chuong4.csproj|solutionrelative:cau5_chuong4\\frmdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\.copilot\\plans\\plan-grocery-order-mdi-application.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1869E266-1C5D-4C17-A156-65788D701097}|cau5_chuong4\\cau5_chuong4.csproj|d:\\code\\c#\\cau5_chuong4\\cau5_chuong4\\frmdonhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1869E266-1C5D-4C17-A156-65788D701097}|cau5_chuong4\\cau5_chuong4.csproj|solutionrelative:cau5_chuong4\\frmdonhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1869E266-1C5D-4C17-A156-65788D701097}|cau5_chuong4\\cau5_chuong4.csproj|d:\\code\\c#\\cau5_chuong4\\cau5_chuong4\\frmparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1869E266-1C5D-4C17-A156-65788D701097}|cau5_chuong4\\cau5_chuong4.csproj|solutionrelative:cau5_chuong4\\frmparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1869E266-1C5D-4C17-A156-65788D701097}|cau5_chuong4\\cau5_chuong4.csproj|d:\\code\\c#\\cau5_chuong4\\cau5_chuong4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1869E266-1C5D-4C17-A156-65788D701097}|cau5_chuong4\\cau5_chuong4.csproj|D:\\code\\C#\\LuQuangMinh_6551071053_BTLT5\\cau5_chuong4\\cau5_chuong4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1869E266-1C5D-4C17-A156-65788D701097}|cau5_chuong4\\cau5_chuong4.csproj|solutionrelative:cau5_chuong4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1869E266-1C5D-4C17-A156-65788D701097}|cau5_chuong4\\cau5_chuong4.csproj|d:\\code\\c#\\cau5_chuong4\\cau5_chuong4\\frmparent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1869E266-1C5D-4C17-A156-65788D701097}|cau5_chuong4\\cau5_chuong4.csproj|solutionrelative:cau5_chuong4\\frmparent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23E489D9-B8C5-B428-B25B-D566034DB47C}|cau5_chuong4\\cau5_chuong4.csproj|d:\\code\\c#\\luquangminh_6551071053_btlt5\\cau5_chuong4\\cau5_chuong4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E489D9-B8C5-B428-B25B-D566034DB47C}|cau5_chuong4\\cau5_chuong4.csproj|solutionrelative:cau5_chuong4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E489D9-B8C5-B428-B25B-D566034DB47C}|cau5_chuong4\\cau5_chuong4.csproj|d:\\code\\c#\\luquangminh_6551071053_btlt5\\cau5_chuong4\\cau5_chuong4\\frmdonhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E489D9-B8C5-B428-B25B-D566034DB47C}|cau5_chuong4\\cau5_chuong4.csproj|solutionrelative:cau5_chuong4\\frmdonhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E489D9-B8C5-B428-B25B-D566034DB47C}|cau5_chuong4\\cau5_chuong4.csproj|d:\\code\\c#\\luquangminh_6551071053_btlt5\\cau5_chuong4\\cau5_chuong4\\frmparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E489D9-B8C5-B428-B25B-D566034DB47C}|cau5_chuong4\\cau5_chuong4.csproj|solutionrelative:cau5_chuong4\\frmparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E489D9-B8C5-B428-B25B-D566034DB47C}|cau5_chuong4\\cau5_chuong4.csproj|d:\\code\\c#\\luquangminh_6551071053_btlt5\\cau5_chuong4\\cau5_chuong4\\frmparent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E489D9-B8C5-B428-B25B-D566034DB47C}|cau5_chuong4\\cau5_chuong4.csproj|solutionrelative:cau5_chuong4\\frmparent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,7 +53,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "plan-grocery-order-mdi-application.md [Preview]",
               "DocumentMoniker": "C:\\Users\\ACER\\.copilot\\plans\\plan-grocery-order-mdi-application.md",
               "ToolTip": "C:\\Users\\ACER\\.copilot\\plans\\plan-grocery-order-mdi-application.md [Preview]",
@@ -63,24 +63,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\code\\C#\\cau5_chuong4\\cau5_chuong4\\Program.cs",
+              "DocumentMoniker": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT5\\cau5_chuong4\\cau5_chuong4\\Program.cs",
               "RelativeDocumentMoniker": "cau5_chuong4\\Program.cs",
-              "ToolTip": "D:\\code\\C#\\cau5_chuong4\\cau5_chuong4\\Program.cs",
+              "ToolTip": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT5\\cau5_chuong4\\cau5_chuong4\\Program.cs",
               "RelativeToolTip": "cau5_chuong4\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAvwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T02:26:20.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-21T02:26:20.668Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frmDonHang.cs",
-              "DocumentMoniker": "D:\\code\\C#\\cau5_chuong4\\cau5_chuong4\\frmDonHang.cs",
+              "DocumentMoniker": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT5\\cau5_chuong4\\cau5_chuong4\\frmDonHang.cs",
               "RelativeDocumentMoniker": "cau5_chuong4\\frmDonHang.cs",
-              "ToolTip": "D:\\code\\C#\\cau5_chuong4\\cau5_chuong4\\frmDonHang.cs",
+              "ToolTip": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT5\\cau5_chuong4\\cau5_chuong4\\frmDonHang.cs",
               "RelativeToolTip": "cau5_chuong4\\frmDonHang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,54 +88,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "frmDonHang.Designer.cs",
-              "DocumentMoniker": "D:\\code\\C#\\cau5_chuong4\\cau5_chuong4\\frmDonHang.Designer.cs",
+              "DocumentMoniker": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT5\\cau5_chuong4\\cau5_chuong4\\frmDonHang.Designer.cs",
               "RelativeDocumentMoniker": "cau5_chuong4\\frmDonHang.Designer.cs",
-              "ToolTip": "D:\\code\\C#\\cau5_chuong4\\cau5_chuong4\\frmDonHang.Designer.cs",
+              "ToolTip": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT5\\cau5_chuong4\\cau5_chuong4\\frmDonHang.Designer.cs",
               "RelativeToolTip": "cau5_chuong4\\frmDonHang.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T02:26:10.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-21T02:26:10.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "frmParent.cs",
-              "DocumentMoniker": "D:\\code\\C#\\cau5_chuong4\\cau5_chuong4\\frmParent.cs",
+              "DocumentMoniker": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT5\\cau5_chuong4\\cau5_chuong4\\frmParent.cs",
               "RelativeDocumentMoniker": "cau5_chuong4\\frmParent.cs",
-              "ToolTip": "D:\\code\\C#\\cau5_chuong4\\cau5_chuong4\\frmParent.cs",
+              "ToolTip": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT5\\cau5_chuong4\\cau5_chuong4\\frmParent.cs",
               "RelativeToolTip": "cau5_chuong4\\frmParent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T02:25:44.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-21T02:25:44.432Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "frmParent.Designer.cs",
-              "DocumentMoniker": "D:\\code\\C#\\cau5_chuong4\\cau5_chuong4\\frmParent.Designer.cs",
+              "DocumentMoniker": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT5\\cau5_chuong4\\cau5_chuong4\\frmParent.Designer.cs",
               "RelativeDocumentMoniker": "cau5_chuong4\\frmParent.Designer.cs",
-              "ToolTip": "D:\\code\\C#\\cau5_chuong4\\cau5_chuong4\\frmParent.Designer.cs",
+              "ToolTip": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT5\\cau5_chuong4\\cau5_chuong4\\frmParent.Designer.cs",
               "RelativeToolTip": "cau5_chuong4\\frmParent.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T02:25:44.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-21T02:25:44.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\code\\C#\\cau5_chuong4\\cau5_chuong4\\Form1.cs",
+              "DocumentMoniker": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT5\\cau5_chuong4\\cau5_chuong4\\Form1.cs",
               "RelativeDocumentMoniker": "cau5_chuong4\\Form1.cs",
               "ToolTip": "D:\\code\\C#\\cau5_chuong4\\cau5_chuong4\\Form1.cs [Design]",
-              "RelativeToolTip": "cau5_chuong4\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\cau5_chuong4\\cau5_chuong4\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T02:24:00.893Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-09-21T02:24:00.893Z"
             }
           ]
         }

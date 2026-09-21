@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\C#\\cau3_chuong4\\cau3_chuong4\\cau3_chuong4.csproj",
+      "projectUniqueName": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT5\\cau3_chuong4\\cau3_chuong4\\cau3_chuong4.csproj",
       "projectName": "cau3_chuong4",
-      "projectPath": "D:\\code\\C#\\cau3_chuong4\\cau3_chuong4\\cau3_chuong4.csproj",
+      "projectPath": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT5\\cau3_chuong4\\cau3_chuong4\\cau3_chuong4.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\code\\C#\\cau3_chuong4\\cau3_chuong4\\obj\\",
+      "outputPath": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT5\\cau3_chuong4\\cau3_chuong4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
