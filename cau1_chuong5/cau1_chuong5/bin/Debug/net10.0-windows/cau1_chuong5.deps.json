@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "cau1_chuong5/1.0.0": {
+        "runtime": {
+          "cau1_chuong5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cau1_chuong5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

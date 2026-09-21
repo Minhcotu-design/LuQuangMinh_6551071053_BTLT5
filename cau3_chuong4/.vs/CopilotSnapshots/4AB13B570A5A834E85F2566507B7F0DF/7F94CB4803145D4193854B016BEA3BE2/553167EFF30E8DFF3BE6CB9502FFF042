@@ -1,0 +1,138 @@
+﻿namespace cau3_chuong4
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            txtCongViecMoi = new TextBox();
+            btnThem = new Button();
+            lstCongViec = new ListBox();
+            cmsCongViec = new ContextMenuStrip(components);
+            mnuDanhDauHoanThanh = new ToolStripMenuItem();
+            mnuXoaCongViec = new ToolStripMenuItem();
+            mnuXoaTatCa = new ToolStripMenuItem();
+            pnlNhapCongViec = new TableLayoutPanel();
+            cmsCongViec.SuspendLayout();
+            pnlNhapCongViec.SuspendLayout();
+            SuspendLayout();
+
+            // 
+            // txtCongViecMoi
+            // 
+            txtCongViecMoi.Dock = DockStyle.Fill;
+            txtCongViecMoi.Margin = new Padding(3, 8, 3, 8);
+            txtCongViecMoi.Name = "txtCongViecMoi";
+            txtCongViecMoi.PlaceholderText = "Nhập công việc mới";
+            txtCongViecMoi.TabIndex = 0;
+            // 
+            // btnThem
+            // 
+            btnThem.AutoSize = true;
+            btnThem.Dock = DockStyle.Fill;
+            btnThem.Margin = new Padding(3, 5, 3, 5);
+            btnThem.Name = "btnThem";
+            btnThem.TabIndex = 1;
+            btnThem.Text = "Thêm";
+            btnThem.UseVisualStyleBackColor = true;
+            btnThem.Click += btnThem_Click;
+            // 
+            // lstCongViec
+            // 
+            lstCongViec.ContextMenuStrip = cmsCongViec;
+            lstCongViec.Dock = DockStyle.Fill;
+            lstCongViec.FormattingEnabled = true;
+            lstCongViec.ItemHeight = 15;
+            lstCongViec.Name = "lstCongViec";
+            lstCongViec.TabIndex = 1;
+            // 
+            // cmsCongViec
+            // 
+            cmsCongViec.Items.AddRange(new ToolStripItem[] { mnuDanhDauHoanThanh, mnuXoaCongViec, mnuXoaTatCa });
+            cmsCongViec.Name = "cmsCongViec";
+            cmsCongViec.Size = new Size(191, 70);
+            // 
+            // mnuDanhDauHoanThanh
+            // 
+            mnuDanhDauHoanThanh.Name = "mnuDanhDauHoanThanh";
+            mnuDanhDauHoanThanh.Size = new Size(190, 22);
+            mnuDanhDauHoanThanh.Text = "Đánh dấu hoàn thành";
+            mnuDanhDauHoanThanh.Click += mnuDanhDauHoanThanh_Click;
+            // 
+            // mnuXoaCongViec
+            // 
+            mnuXoaCongViec.Name = "mnuXoaCongViec";
+            mnuXoaCongViec.Size = new Size(190, 22);
+            mnuXoaCongViec.Text = "Xóa công việc này";
+            mnuXoaCongViec.Click += mnuXoaCongViec_Click;
+            // 
+            // mnuXoaTatCa
+            // 
+            mnuXoaTatCa.Name = "mnuXoaTatCa";
+            mnuXoaTatCa.Size = new Size(190, 22);
+            mnuXoaTatCa.Text = "Xóa tất cả";
+            mnuXoaTatCa.Click += mnuXoaTatCa_Click;
+            // 
+            // pnlNhapCongViec
+            // 
+            pnlNhapCongViec.ColumnCount = 2;
+            pnlNhapCongViec.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 100F));
+            pnlNhapCongViec.ColumnStyles.Add(new ColumnStyle(SizeType.AutoSize));
+            pnlNhapCongViec.Controls.Add(txtCongViecMoi, 0, 0);
+            pnlNhapCongViec.Controls.Add(btnThem, 1, 0);
+            pnlNhapCongViec.Dock = DockStyle.Top;
+            pnlNhapCongViec.Height = 40;
+            pnlNhapCongViec.Name = "pnlNhapCongViec";
+            pnlNhapCongViec.RowCount = 1;
+            pnlNhapCongViec.RowStyles.Add(new RowStyle(SizeType.Percent, 100F));
+            // 
+            // Form1
+            // 
+            components = new System.ComponentModel.Container();
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(lstCongViec);
+            Controls.Add(pnlNhapCongViec);
+            Name = "Form1";
+            Text = "Danh sách công việc";
+            cmsCongViec.ResumeLayout(false);
+            pnlNhapCongViec.ResumeLayout(false);
+            pnlNhapCongViec.PerformLayout();
+            ResumeLayout(false);
+        }
+
+        private TextBox txtCongViecMoi;
+        private Button btnThem;
+        private ListBox lstCongViec;
+        private ContextMenuStrip cmsCongViec;
+        private ToolStripMenuItem mnuDanhDauHoanThanh;
+        private ToolStripMenuItem mnuXoaCongViec;
+        private ToolStripMenuItem mnuXoaTatCa;
+        private TableLayoutPanel pnlNhapCongViec;
+
+        #endregion
+    }
+}

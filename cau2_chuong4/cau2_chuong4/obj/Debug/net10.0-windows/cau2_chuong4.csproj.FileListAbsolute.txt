@@ -1,0 +1,17 @@
+D:\code\C#\cau2_chuong4\cau2_chuong4\bin\Debug\net10.0-windows\cau2_chuong4.exe
+D:\code\C#\cau2_chuong4\cau2_chuong4\bin\Debug\net10.0-windows\cau2_chuong4.deps.json
+D:\code\C#\cau2_chuong4\cau2_chuong4\bin\Debug\net10.0-windows\cau2_chuong4.runtimeconfig.json
+D:\code\C#\cau2_chuong4\cau2_chuong4\bin\Debug\net10.0-windows\cau2_chuong4.dll
+D:\code\C#\cau2_chuong4\cau2_chuong4\bin\Debug\net10.0-windows\cau2_chuong4.pdb
+D:\code\C#\cau2_chuong4\cau2_chuong4\obj\Debug\net10.0-windows\cau2_chuong4.Form1.resources
+D:\code\C#\cau2_chuong4\cau2_chuong4\obj\Debug\net10.0-windows\cau2_chuong4.csproj.GenerateResource.cache
+D:\code\C#\cau2_chuong4\cau2_chuong4\obj\Debug\net10.0-windows\cau2_chuong4.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#\cau2_chuong4\cau2_chuong4\obj\Debug\net10.0-windows\cau2_chuong4.AssemblyInfoInputs.cache
+D:\code\C#\cau2_chuong4\cau2_chuong4\obj\Debug\net10.0-windows\cau2_chuong4.AssemblyInfo.cs
+D:\code\C#\cau2_chuong4\cau2_chuong4\obj\Debug\net10.0-windows\cau2_chuong4.csproj.CoreCompileInputs.cache
+D:\code\C#\cau2_chuong4\cau2_chuong4\obj\Debug\net10.0-windows\cau2_chuong4.dll
+D:\code\C#\cau2_chuong4\cau2_chuong4\obj\Debug\net10.0-windows\refint\cau2_chuong4.dll
+D:\code\C#\cau2_chuong4\cau2_chuong4\obj\Debug\net10.0-windows\cau2_chuong4.pdb
+D:\code\C#\cau2_chuong4\cau2_chuong4\obj\Debug\net10.0-windows\cau2_chuong4.genruntimeconfig.cache
+D:\code\C#\cau2_chuong4\cau2_chuong4\obj\Debug\net10.0-windows\ref\cau2_chuong4.dll
+D:\code\C#\cau2_chuong4\cau2_chuong4\obj\Debug\net10.0-windows\cau2_chu.9576D637.Up2Date
